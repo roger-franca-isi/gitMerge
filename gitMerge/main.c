@@ -13,12 +13,12 @@ void App_Exec(void)
 
 void Drv_Test_function1(void)
 {
-    printf("Drv Function 1 - feature-1 branch\n");
+    printf("Drv Function 1 - main branch\n");
 }
 
 void Drv_Test_function2(void)
 {
-    printf("Drv Function 2 - feature-1 branch\n");
+    printf("Drv Function 2 - main branch\n");
 }
 
 void main(void)
