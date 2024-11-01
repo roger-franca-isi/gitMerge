@@ -7,7 +7,7 @@ void Drv_Test_function2(void);
 void App_Exec(void)
 {
     Drv_Test_function1();
-    printf("App Exec - main branch 2\n");
+    printf("App Exec - main branch 3\n");
     Drv_Test_function2();
 }
 
