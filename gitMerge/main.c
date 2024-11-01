@@ -18,7 +18,7 @@ void Drv_Test_function1(void)
 
 void Drv_Test_function2(void)
 {
-    printf("Drv Function 2 - main branch\n");
+    printf("Drv Function 2 - main branch \n");
 }
 
 void main(void)
